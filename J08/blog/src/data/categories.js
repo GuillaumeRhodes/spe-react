@@ -9,4 +9,14 @@ export default [
     slug: 'react',
     name: 'React',
   },
+  {
+    id: 3,
+    slug: 'oclock',
+    name: 'O’clock',
+  },
+  {
+    id: 4,
+    slug: 'autre',
+    name: 'Autre',
+  }
 ];
